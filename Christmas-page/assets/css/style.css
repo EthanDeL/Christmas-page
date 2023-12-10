@@ -1,0 +1,56 @@
+/* GOOGLE FONT */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mountains+of+Christmas&display=swap');
+
+:root{
+    /* COLORS */
+    --night-color : hsl(217, 100%, 12%); 
+    --moon-around-dark-color: hsl(207, 41%, 42%);
+    --white-color : hsl(0, 11%, 95%); 
+    --yellow-color: hsl(60, 94%, 49%); 
+
+    /* FONT FAMILY */ 
+    --first-font : 'Poppins'; 
+    --second-font: 'Mountains of Christmas', serif;
+}   
+
+/* BASE */
+*{
+    margin: 0; padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+/* BODY */
+body {
+    font-family: var(--first-font);
+    height: auto;
+    background-color: var(--night-color);
+    overflow-x: hidden;
+}
+
+/* NAVBAR */ 
+
+    /* BREAKPOINTS */ 
+
+
+/* MOON */
+
+/* SANTA & SLEIGH */
+
+/* MOUTAIN  */
+
+/* TREE  */
+
+/* CHRISTMAS-TREE */
+
+/* COTTAGE HOUSE */ 
+
+/* SNOW */ 
+
+/* FIRES TREES */ 
+
+/* GIFTS */ 
+
+    /* BREAKPOINTS */ 
