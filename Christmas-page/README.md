@@ -14,3 +14,6 @@
 * Image Source:
     * Image created by Freepik
         * 👉 https://www.freepik.com/free-vector/background-landscape-with-full-moon_1107751.htm#query=moon&position=0&from_view=author&uuid=19dd68d3-9957-4324-b0f8-a9fca93ee7f6
+     
+          
+<img width="712" alt="miniature" src="https://github.com/EthanDeL/Christmas-page/assets/121880462/bd19d0c0-5e56-42b6-8181-869a316bd407">
